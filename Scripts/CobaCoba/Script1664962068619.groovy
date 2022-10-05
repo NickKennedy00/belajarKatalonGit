@@ -27,17 +27,9 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_OrangeHRM/input_Pa
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/span_Admin'))
-
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/span_Dashboard'))
+WebUI.verifyTextPresent('konz', false)
 
 WebUI.delay(3)
-
-
-
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/i_Dashboard_oxd-icon bi-caret-down-fill oxd_d2fd49'))
-
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_Logout'))
 
 WebUI.closeBrowser()
 
