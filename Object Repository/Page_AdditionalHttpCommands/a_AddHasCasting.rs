@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_AddHasCasting</name>
+   <tag></tag>
+   <elementGuidId>30c64f94-cc0b-43be-adeb-db36fc8dde0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'AddHasCasting')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;class in org.openqa.selenium.chromium&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f1209953-0129-482d-bb6e-7875047d31eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>../chromium/AddHasCasting.html</value>
+      <webElementGuid>63e13327-cf56-496a-8e86-04daf4a15915</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>class in org.openqa.selenium.chromium</value>
+      <webElementGuid>9a918c02-9fef-4ff5-8f77-f2e5b9eb7398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AddHasCasting</value>
+      <webElementGuid>30433c80-d611-4c4f-806f-970c8d7b9075</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[1]/div[@class=&quot;contentContainer&quot;]/div[@class=&quot;description&quot;]/ul[@class=&quot;blockList&quot;]/li[@class=&quot;blockList&quot;]/dl[1]/dd[1]/code[2]/a[1]</value>
+      <webElementGuid>1b314ae7-7fb1-43f2-bb59-dbb2b4601a58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_AdditionalHttpCommands/iframe_classFrame</value>
+      <webElementGuid>ddfdbfe7-7dc3-4292-a739-71a5c90b643a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'AddHasCasting')])[2]</value>
+      <webElementGuid>73d6dcec-0228-4262-a627-d325313a82f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AddHasCasting'])[1]/following::a[1]</value>
+      <webElementGuid>1afa30b5-ea28-49b9-8467-9ea3f529a406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AddHasCasting'])[3]/preceding::a[1]</value>
+      <webElementGuid>4f6d6a3b-40aa-46e1-9705-3809e9aa42fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AddHasCdp'])[1]/preceding::a[2]</value>
+      <webElementGuid>e7359f48-f5e4-4511-bcef-56c227193290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '../chromium/AddHasCasting.html')]</value>
+      <webElementGuid>e71b3ba0-3212-486e-9966-204adbbb736b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//code[2]/a</value>
+      <webElementGuid>a27197bc-2eaa-41a7-9e4c-d481606b8aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '../chromium/AddHasCasting.html' and @title = 'class in org.openqa.selenium.chromium' and (text() = 'AddHasCasting' or . = 'AddHasCasting')]</value>
+      <webElementGuid>e34fb7ef-a39c-46be-b785-11398319a60e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

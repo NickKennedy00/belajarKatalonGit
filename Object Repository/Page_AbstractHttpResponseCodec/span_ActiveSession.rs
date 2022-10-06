@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ActiveSession</name>
+   <tag></tag>
+   <elementGuidId>b00b0f5d-2ffb-4908-9181-f4260c660501</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='ActiveSession'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;interface in org.openqa.selenium.grid.session&quot;] > span.interfaceName</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a4405870-9e88-48d8-a394-464c73163efd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>interfaceName</value>
+      <webElementGuid>c03b25be-7a8e-4bb5-9d58-fa4f9243f475</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ActiveSession</value>
+      <webElementGuid>93621ee1-37d0-4972-a26f-173b3c36024e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/main[@class=&quot;indexContainer&quot;]/ul[1]/li[12]/a[1]/span[@class=&quot;interfaceName&quot;]</value>
+      <webElementGuid>f39c97d7-7f85-4d44-83e1-7febad44916c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_AbstractHttpResponseCodec/iframe_packageFrame</value>
+      <webElementGuid>67f2d30e-1645-43c2-aa99-8a7441e3ca6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ActiveSession'])[1]/following::span[1]</value>
+      <webElementGuid>525091fc-13e7-4202-8e75-62cbf236accf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::span[2]</value>
+      <webElementGuid>36af620e-6205-4f73-bcc7-5b52268ee33f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ActualMain'])[1]/preceding::span[1]</value>
+      <webElementGuid>aa2cf5d7-8bc3-4967-a74b-95b31593a972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AddApplicationCache'])[1]/preceding::span[1]</value>
+      <webElementGuid>5f6c1470-dc22-4171-9432-cf416eb7d430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[12]/a/span</value>
+      <webElementGuid>8e787a51-3253-4eb5-9c9a-4222519ce684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'ActiveSession' or . = 'ActiveSession')]</value>
+      <webElementGuid>fb2a6d8f-4862-4ec5-ae0a-85e0e64a350e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
